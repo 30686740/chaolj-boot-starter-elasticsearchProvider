@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.chaolj.core.elasticsearchProvider.AutoConfig.ElasticsearchConfig,\
+com.chaolj.core.elasticsearchProvider.MyElasticsearchProviderConfig
